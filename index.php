@@ -20,7 +20,11 @@
   
       <div class="container-fluid">
       <!-- Introduction section -->
+<<<<<<< HEAD
             <div class="row intro py-1" style=" background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);">
+=======
+            <div class="row intro py-1" style="background-color : #82E0AA;">
+>>>>>>> e34d83e0afb1c692f494456b937b582d0bb788fd
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
                   <h3>Welcome to</h3>
