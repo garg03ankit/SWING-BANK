@@ -37,7 +37,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'Salman', 'khan@gmail.com', 50000),
+(1, 'askar', 'dhanjey@gmail.com', 50000),
 (2, 'Kiara', 'advani@gmail.com', 30000),
 (3, 'Shahrukh', 'shah@gmail.com', 40000),
 (4, 'Priyanka', 'chopra@gmail.com', 50000),
